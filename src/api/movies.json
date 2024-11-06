@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "img": "https://rukminim2.flixcart.com/image/850/1000/kxaq7ww0/poster/7/l/r/medium-spiderman-homecoming-7-matte-finish-poster-mposa6008-original-imag9s23uez2kgd9.jpeg?q=90&crop=false",
+        "title": "Spider-Man: Homecoming",
+        "genre": "Super Hero",
+        "year": 2017,
+        "director": "Jon Watts",
+        "rating": 7.4,
+        "description": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student."
+    },
+    {
+        "id": 2,
+        "img": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7791A92CA30EF9F51223B11EF62661ED67689005008D16B1876A97AE80964444/scale?width=1200&aspectRatio=1.78&format=webp",
+        "title": "Spider-Man: Far From Home",
+        "genre": "Super Hero",
+        "year": 2019,
+        "director": "Jon Watts",
+        "rating": 7.4,
+        "description": "The world is in danger as four massive elemental creatures -- each representing Earth, air, water and fire -- emerge from a hole torn in the universe."
+    },
+    {
+        "id": 2,
+        "img": "https://thebluntpost.com/wp-content/uploads/2021/03/justiceleague_wb.jpg",
+        "title": "Zack Snyder's Justice League",
+        "genre": "Super Hero",
+        "year": 2021,
+        "director": "Zack Snyder",
+        "rating": 7.9,
+        "description": "Zack Snyder's Justice League is a 2021 film about a team of metahumans led by Batman and Wonder Woman who must protect the world from a catastrophic threat."
+    },
+    {
+        "id": 3,
+        "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhbZcyksWhLUdEWMTjOL_AQmdAXcTkPfvGNhJbZTcCysPDxtNGgOMOaJeShIyxCWzitGY9aYJErjRsNvis8CoV9w-NwlbepnsCcMY65GM9HGgBImElNZ4Jq2g3Fp6lVDq3nzLZitqI1bdLTJxd1dewmbHXFJT0pMgkJO4jmcaVozx9nWi2_yguyKecXyA=s600",
+        "title": "Venom: Let There Be Carnage",
+        "genre": "Super Hero",
+        "year": 2021,
+        "director": "Andy Serkis",
+        "rating": 5.9,
+        "description": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution."
+    },
+    {
+        "id": 4,
+        "img": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/03/captain-america-civil-war-mcu.jpg",
+        "title": "Captain America: Civil War",
+        "genre": "Super Hero",
+        "year": 2016,
+        "director": "Anthony Russo, Joe Russo",
+        "rating": 7.8,
+        "description": "Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference."
+    },
+    {
+        "id": 5,
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/Featured-Black-Panther-Poster-Hidden-Details.jpg",
+        "title": "Black Panther",
+        "genre": "Super Hero",
+        "year": 2018,
+        "director": "Ryan Coogle",
+        "rating": 7.3,
+        "description": "A black panther is the melanistic colour variant of the leopard (Panthera pardus) and the jaguar (Panthera onca). "
+    },
+    {
+        "id": 6,
+        "img": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_mas_hlf_01_2.jpg",
+        "title": "Avengers: Infinity War",
+        "genre": "Action, Super Hero",
+        "year": 2018,
+        "director": "Anthony Russo, Joe Russo",
+        "rating": 8.4,
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+    },
+    {
+        "id": 7,
+        "img": "https://i.dawn.com/primary/2019/04/5cc6a29a812e0.jpg",
+        "title": "Avengers: Endgame",
+        "genre": "Action, Super Hero",
+        "year": 2019,
+        "director": "Anthony Russo, Joe Russo",
+        "rating": 8.4,
+        "description": "An endgame is the very last part of a strategic game, like chess or backgammon"
+    }
+]
